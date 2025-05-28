@@ -3,4 +3,5 @@
 Calisthenics
 Crossfit
 
-Thursday: Biceps, Triceps, Skill practice(Handstand, Muscle-ups), Core
+Thursday: Biceps, Triceps, 
+Skill practice(Handstand, Muscle-ups), Core
